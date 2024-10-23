@@ -43,8 +43,8 @@ cadastro-usuarios/
 ## 🔧 Instalação
 1. Clone o repositório:
 ```sh
-    git clone https://github.com/seu-usuario/cadastro-usuarios.git
-    cd cadastro-usuarios
+    git clone https://github.com/Neto-Pereira25/user_crud_with_json_server.git
+    cd user_crud_with_json_server
 ```
 
 2. Instale as dependências do projeto:
